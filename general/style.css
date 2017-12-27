@@ -1,0 +1,21 @@
+/*--Navigation---*/
+
+
+div.navbar-collapse
+{
+    justify-content: flex-end;
+}
+
+div.relative
+{
+    position:relative;
+}
+
+/*----header----*/
+
+img.banner-img
+{
+    z-index:-5;
+
+}
+
